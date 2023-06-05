@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Zhi Yi</h1>
 <h3 align="center">An Information Systems Undergraduate hoping to make a difference</h3>
 
-- 🔭 I’m currently working on **My personal website (sorry if it's not working fully!)**
+- 🔭 I’m currently working on **My personal website (sorry if it's not fully functional for now!)**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: **Email: gohzhiyi77@gmail.com**
 
 - ⚡ Fun fact **I think MS Excel VBA is cool!**
 
