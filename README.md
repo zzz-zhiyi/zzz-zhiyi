@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 📫 How to reach me: **Email: gohzhiyi77@gmail.com**
+- 📫 How to reach me: **gohzhiyi77@gmail.com**
 
 - ⚡ Fun fact **I think MS Excel VBA is cool!**
 
